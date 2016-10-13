@@ -1,2 +1,10 @@
-# hello-world
-hello-world 1st test 1410
+/* Hello World program */
+
+#include<stdio.h>
+
+main()
+{
+    printf("Hello World");
+
+
+}
